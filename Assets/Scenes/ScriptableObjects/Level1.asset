@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 008930767855a0443b06032e56a33287, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  name: Sombrero
+  description:
+  - Great job!
+  - You've just colored a traditional sombrero, a fun and colorful hat from Mexico!
+  AudioClip:
+  - {fileID: 8300000, guid: fd76f4d40b8b9b34c8fe01cd54e15121, type: 3}
+  - {fileID: 8300000, guid: 3a910360321887d4bb73c5c2c647b8b7, type: 3}
+  fillableImages:
+  - {fileID: 21300000, guid: d657bf836fa99ab4899637ad6dd30156, type: 3}
+  - {fileID: 21300000, guid: 8bbd97c5fca8fbe47a7cb8c4208c7ebc, type: 3}
+  - {fileID: 21300000, guid: 7976e0892d3af83428be1bfc9ce0773a, type: 3}
+  - {fileID: 21300000, guid: a07435274a0f34a4fbcc9f185a1e7561, type: 3}
+  - {fileID: 21300000, guid: b116f2b21887726419e29bc620c73dca, type: 3}
+  - {fileID: 21300000, guid: c76ff0c7174871d419485ebcebb7a230, type: 3}
+  - {fileID: 21300000, guid: 9471cfc672f60ac4aa3225ff38b18d9b, type: 3}
+  - {fileID: 21300000, guid: 6c7a0cc7f0c9ce24d9a946a932750c86, type: 3}
+  fillableImagesColors:
+  - {r: 0.93725497, g: 0.6901961, b: 0.13725491, a: 0}
+  - {r: 0.9058824, g: 0.42352945, b: 0.08627451, a: 0}
+  - {r: 0.69803923, g: 0.8117648, b: 0.34509805, a: 0}
+  - {r: 0.69803923, g: 0.8117648, b: 0.34509805, a: 0}
+  - {r: 0.93725497, g: 0.6901961, b: 0.13725491, a: 0}
+  - {r: 0.4, g: 0.14509805, b: 0.31764707, a: 0}
+  - {r: 0.8196079, g: 0.12941177, b: 0.13725491, a: 0}
+  - {r: 0.93725497, g: 0.6901961, b: 0.13725491, a: 0}
+  finalImage: {fileID: -2128089496, guid: 155094428e61440499a7aeef9a608402, type: 3}
+  panelImage: {fileID: -297973055, guid: 581ca93ef8e29c64694d28a536df7337, type: 3}
+  fillableLength: 7

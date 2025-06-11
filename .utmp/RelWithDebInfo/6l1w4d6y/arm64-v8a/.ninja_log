@@ -1,0 +1,12 @@
+# ninja log v5
+54	353	7596851255816818	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2c291b1a23f2708
+354	633	7596851258232688	B:/Unity Projects/GeographyGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6l1w4d6y/obj/arm64-v8a/libswappywrapper.so	b7a22299b6214786
+21	1240	7596851264563496	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	8ff503efbb85b8bc
+9	1283	7596851264878750	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	eed8de7823e9ac95
+27	1295	7596851265119612	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	83ee11af80e8fa58
+48	1349	7596851265614262	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d9293f72d74de467
+39	1403	7596851266221788	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3b3914601d713280
+15	1540	7596851267631685	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	97547195815f3fd8
+33	1710	7596851269326576	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b8a3b077959b9bd8
+1	1841	7596851270629408	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	46fdd4bc697d7324
+1841	1938	7596851271665807	B:/Unity Projects/GeographyGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6l1w4d6y/obj/arm64-v8a/libgame.so	56c05801257de6b3

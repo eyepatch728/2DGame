@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89445c98a37cfd94a8af8144031cbde0, type: 3}
+  m_Name: NorthAmerica
+  m_EditorClassIdentifier: 
+  continentName: North America
+  description: 
+  miniGames:
+  - {fileID: 11400000, guid: be3467e4bdd445e4ca4ed584beb8dee7, type: 2}
+  - {fileID: 11400000, guid: ac07c9eb3c90b4b4f889744032da481a, type: 2}
+  - {fileID: 11400000, guid: 23f9548bea0c9c3438b607626a108f16, type: 2}
+  - {fileID: 11400000, guid: 89ee64a7ea013c046acb61f1fd9fd111, type: 2}
+  - {fileID: 11400000, guid: 81f4829664668c846af1cc648c0170b9, type: 2}
+  audioClips:
+  - {fileID: 8300000, guid: fa7caefd9b8ba674b9303a6baed3a656, type: 3}
+  - {fileID: 8300000, guid: 5383c74acf7f0694c9255b4b4bf2c451, type: 3}
+  - {fileID: 8300000, guid: 435f0f94a3aa31147b4eba848efed3a9, type: 3}
+  backgroundMusic: {fileID: 8300000, guid: 4961011f9bee2e9499944e00c429b26f, type: 3}

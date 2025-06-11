@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 008930767855a0443b06032e56a33287, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  name: Pinata
+  description:
+  - Great job!
+  - "You've colored a bright and fun pi\xF1ata! Pi\xF1atas are used in Mexican celebrations,
+    filled with candies and toys. Keep up the good work!"
+  AudioClip:
+  - {fileID: 8300000, guid: 724c63995908c094b9045e73de7013f3, type: 3}
+  - {fileID: 8300000, guid: d53803ff86891cd4e92466681c8a6103, type: 3}
+  fillableImages:
+  - {fileID: 21300000, guid: e981afa541e9e8d448965e904fd257de, type: 3}
+  - {fileID: 21300000, guid: 587377002a1d205479c20a041274a040, type: 3}
+  - {fileID: 21300000, guid: d6269d66c9653f942829b4ddf477ed3e, type: 3}
+  - {fileID: 21300000, guid: 7c029b6dee3dd484697cfe80a80577d6, type: 3}
+  - {fileID: 21300000, guid: 012e513208ba6f14c8104d81b921f03a, type: 3}
+  - {fileID: 21300000, guid: 35050aa867018fb489a640fbf5479f2e, type: 3}
+  - {fileID: 21300000, guid: 152519010a781964b919a22e1f1c23b8, type: 3}
+  - {fileID: 21300000, guid: 128ccddd40312c948a0ece26117bc3ec, type: 3}
+  - {fileID: 21300000, guid: 8f489dec3ada04e4ab3c61fcf38493c2, type: 3}
+  - {fileID: 21300000, guid: a9318025063d6494292fb9eafafcf990, type: 3}
+  fillableImagesColors:
+  - {r: 0.17254902, g: 0.16078432, b: 0.5921569, a: 0}
+  - {r: 0.7568628, g: 0.1254902, b: 0.5176471, a: 0}
+  - {r: 0, g: 0.7568628, b: 0.6666667, a: 0}
+  - {r: 0.7568628, g: 0.1254902, b: 0.5176471, a: 0}
+  - {r: 1, g: 0.8117648, b: 0.12941177, a: 0}
+  - {r: 1, g: 0.5882353, b: 0.17254902, a: 0}
+  - {r: 0.7568628, g: 0.1254902, b: 0.5176471, a: 0}
+  - {r: 1, g: 0.43921572, b: 0.6156863, a: 0}
+  - {r: 1, g: 0.43921572, b: 0.6156863, a: 0}
+  - {r: 1, g: 0.43921572, b: 0.6156863, a: 0}
+  finalImage: {fileID: 1561845851, guid: 155094428e61440499a7aeef9a608402, type: 3}
+  panelImage: {fileID: -297973055, guid: 581ca93ef8e29c64694d28a536df7337, type: 3}
+  fillableLength: 8

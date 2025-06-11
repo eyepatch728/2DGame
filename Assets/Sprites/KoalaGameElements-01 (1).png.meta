@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: a5e9901eb13787043979cff9d739a693
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6497569353088198595
+    second: KoalaGameElements-01 (1)_0
+  - first:
+      213: 4534638623270112207
+    second: KoalaGameElements-01 (1)_1
+  - first:
+      213: 6156294595881565250
+    second: KoalaGameElements-01 (1)_2
+  - first:
+      213: 1576299108575415220
+    second: KoalaGameElements-01 (1)_3
+  - first:
+      213: 6247066940169580424
+    second: KoalaGameElements-01 (1)_4
+  - first:
+      213: 4287553388686728895
+    second: KoalaGameElements-01 (1)_5
+  - first:
+      213: -7638406999086032824
+    second: KoalaGameElements-01 (1)_6
+  - first:
+      213: -9162984681438934932
+    second: KoalaGameElements-01 (1)_7
+  - first:
+      213: 7243472044831206973
+    second: KoalaGameElements-01 (1)_8
+  - first:
+      213: 6061719570261512345
+    second: KoalaGameElements-01 (1)_9
+  - first:
+      213: -4415847310380260935
+    second: KoalaGameElements-01 (1)_10
+  - first:
+      213: 2050505831383527285
+    second: KoalaGameElements-01 (1)_11
+  - first:
+      213: -5444555109264873173
+    second: KoalaGameElements-01 (1)_12
+  - first:
+      213: -4065388069769144336
+    second: KoalaGameElements-01 (1)_13
+  - first:
+      213: 214962751755505143
+    second: KoalaGameElements-01 (1)_14
+  - first:
+      213: 3763359554287533681
+    second: KoalaGameElements-01 (1)_15
+  - first:
+      213: 7379243160459695727
+    second: KoalaGameElements-01 (1)_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 839
+        width: 116
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7694aa6e00c2a50800000000000000
+      internalID: 6497569353088198595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 862
+        width: 196
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb08c46dc54eee30800000000000000
+      internalID: 4534638623270112207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 852
+        width: 158
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c7d28415d8f6550800000000000000
+      internalID: 6156294595881565250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 852
+        width: 167
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb076a00b320e510800000000000000
+      internalID: 1576299108575415220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 846
+        width: 177
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fe4e0a84a02b650800000000000000
+      internalID: 6247066940169580424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 614
+        width: 210
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbed1303713708b30800000000000000
+      internalID: 4287553388686728895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 614
+        width: 210
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8489e99ed4deef590800000000000000
+      internalID: -7638406999086032824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 614
+        width: 209
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c688c74daf986d080800000000000000
+      internalID: -9162984681438934932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 400
+        width: 209
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ee2ac727bf58460800000000000000
+      internalID: 7243472044831206973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 400
+        width: 209
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990987135dd8f1450800000000000000
+      internalID: 6061719570261512345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 400
+        width: 210
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1ab627442c7b2c0800000000000000
+      internalID: -4415847310380260935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 206
+        width: 209
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f6b79803cd47c10800000000000000
+      internalID: 2050505831383527285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 159
+        width: 116
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29aa3089fd0174b0800000000000000
+      internalID: -5444555109264873173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 196
+        width: 163
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f79c430717d497c0800000000000000
+      internalID: -4065388069769144336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 196
+        width: 163
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdc35adb73bbf200800000000000000
+      internalID: 214962751755505143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 34
+        width: 163
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e716353932a3430800000000000000
+      internalID: 3763359554287533681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KoalaGameElements-01 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 35
+        width: 164
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f665e6abe86586660800000000000000
+      internalID: 7379243160459695727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KoalaGameElements-01 (1)_0: 6497569353088198595
+      KoalaGameElements-01 (1)_1: 4534638623270112207
+      KoalaGameElements-01 (1)_10: -4415847310380260935
+      KoalaGameElements-01 (1)_11: 2050505831383527285
+      KoalaGameElements-01 (1)_12: -5444555109264873173
+      KoalaGameElements-01 (1)_13: -4065388069769144336
+      KoalaGameElements-01 (1)_14: 214962751755505143
+      KoalaGameElements-01 (1)_15: 3763359554287533681
+      KoalaGameElements-01 (1)_16: 7379243160459695727
+      KoalaGameElements-01 (1)_2: 6156294595881565250
+      KoalaGameElements-01 (1)_3: 1576299108575415220
+      KoalaGameElements-01 (1)_4: 6247066940169580424
+      KoalaGameElements-01 (1)_5: 4287553388686728895
+      KoalaGameElements-01 (1)_6: -7638406999086032824
+      KoalaGameElements-01 (1)_7: -9162984681438934932
+      KoalaGameElements-01 (1)_8: 7243472044831206973
+      KoalaGameElements-01 (1)_9: 6061719570261512345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

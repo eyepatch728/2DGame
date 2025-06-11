@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89445c98a37cfd94a8af8144031cbde0, type: 3}
+  m_Name: SouthAmerica
+  m_EditorClassIdentifier: 
+  continentName: South America
+  description: 
+  miniGames:
+  - {fileID: 11400000, guid: 358596fe8c4cb51428aee249dc3840b5, type: 2}
+  - {fileID: 11400000, guid: ef49955502f97034896531ba8d933682, type: 2}
+  - {fileID: 11400000, guid: edabee68a7cd253419b490d6f6d06c66, type: 2}
+  - {fileID: 11400000, guid: 575bd931751db394f866992672005dd8, type: 2}
+  audioClips:
+  - {fileID: 8300000, guid: ea32470dad72b0643b143077637aef8e, type: 3}
+  - {fileID: 8300000, guid: 5383c74acf7f0694c9255b4b4bf2c451, type: 3}
+  - {fileID: 8300000, guid: 435f0f94a3aa31147b4eba848efed3a9, type: 3}
+  backgroundMusic: {fileID: 8300000, guid: 7f465e07722e8984280ecb751efa8b9c, type: 3}

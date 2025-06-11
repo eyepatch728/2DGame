@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 3633d1b5e9b6b004c8bc97a5137f2903
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4641822042214166614
+    second: Letters-02_0
+  - first:
+      213: -9011632616601902613
+    second: Letters-02_1
+  - first:
+      213: -3214440163984365671
+    second: Letters-02_2
+  - first:
+      213: -2883101782003498520
+    second: Letters-02_3
+  - first:
+      213: -9009240437938032958
+    second: Letters-02_4
+  - first:
+      213: -6162528462684569409
+    second: Letters-02_5
+  - first:
+      213: -2775516833764928821
+    second: Letters-02_6
+  - first:
+      213: 5317125507526675484
+    second: Letters-02_7
+  - first:
+      213: 1959130435158024795
+    second: Letters-02_8
+  - first:
+      213: 2618534384454089462
+    second: Letters-02_9
+  - first:
+      213: 7569107738747763519
+    second: Letters-02_10
+  - first:
+      213: 5585458126882185695
+    second: Letters-02_11
+  - first:
+      213: 5073395457007686128
+    second: Letters-02_12
+  - first:
+      213: 3959724657232468037
+    second: Letters-02_13
+  - first:
+      213: -6516833828547478638
+    second: Letters-02_14
+  - first:
+      213: -7073751707650644270
+    second: Letters-02_15
+  - first:
+      213: -5120674613146836078
+    second: Letters-02_16
+  - first:
+      213: 4375813843564055757
+    second: Letters-02_17
+  - first:
+      213: 2060559729078497126
+    second: Letters-02_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Letters-02_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 407
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf0f3f227fe49fb0800000000000000
+      internalID: -4641822042214166614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 406
+        width: 142
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1ae1181ef30f280800000000000000
+      internalID: -9011632616601902613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 408
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997a6f1a3b30463d0800000000000000
+      internalID: -3214440163984365671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 408
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1c260643a2df7d0800000000000000
+      internalID: -2883101782003498520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_4
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 407
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce6e900e8fb8f280800000000000000
+      internalID: -9009240437938032958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_5
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 410
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0c37f730d4a7aa0800000000000000
+      internalID: -6162528462684569409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 328
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2135f15226b79d0800000000000000
+      internalID: -2775516833764928821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 328
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ccb4e4a793ac940800000000000000
+      internalID: 5317125507526675484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 328
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52204830ca303b10800000000000000
+      internalID: 1959130435158024795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 329
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa38892627e65420800000000000000
+      internalID: 2618534384454089462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 330
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b78b2b26fda0960800000000000000
+      internalID: 7569107738747763519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 330
+        width: 86
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1a1a8c298838d40800000000000000
+      internalID: 5585458126882185695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 243
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f11604c942586640800000000000000
+      internalID: 5073395457007686128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 243
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54852b2a894c3f630800000000000000
+      internalID: 3959724657232468037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 244
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bbd2d192e8f85a0800000000000000
+      internalID: -6516833828547478638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 245
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6ab2cdc4cf4dd90800000000000000
+      internalID: -7073751707650644270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 248
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293a501e195bfe8b0800000000000000
+      internalID: -5120674613146836078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 245
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc4fd4b1830abc30800000000000000
+      internalID: 4375813843564055757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters-02_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 493
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fe2320824989c10800000000000000
+      internalID: 2060559729078497126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Letters-02_0: -4641822042214166614
+      Letters-02_1: -9011632616601902613
+      Letters-02_10: 7569107738747763519
+      Letters-02_11: 5585458126882185695
+      Letters-02_12: 5073395457007686128
+      Letters-02_13: 3959724657232468037
+      Letters-02_14: -6516833828547478638
+      Letters-02_15: -7073751707650644270
+      Letters-02_16: -5120674613146836078
+      Letters-02_17: 4375813843564055757
+      Letters-02_18: 2060559729078497126
+      Letters-02_2: -3214440163984365671
+      Letters-02_3: -2883101782003498520
+      Letters-02_4: -9009240437938032958
+      Letters-02_5: -6162528462684569409
+      Letters-02_6: -2775516833764928821
+      Letters-02_7: 5317125507526675484
+      Letters-02_8: 1959130435158024795
+      Letters-02_9: 2618534384454089462
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

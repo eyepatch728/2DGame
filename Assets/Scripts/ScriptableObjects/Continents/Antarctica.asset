@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89445c98a37cfd94a8af8144031cbde0, type: 3}
+  m_Name: Antarctica
+  m_EditorClassIdentifier: 
+  continentName: Antarctica
+  description: 
+  miniGames:
+  - {fileID: 11400000, guid: 68aeb2e50fc24db46a72d26310bbacee, type: 2}
+  - {fileID: 11400000, guid: e6c146a1925ec4944b7cee0e88546a04, type: 2}
+  audioClips:
+  - {fileID: 8300000, guid: 2b80f555d7cf5414faaf36dc4d91d0eb, type: 3}
+  - {fileID: 8300000, guid: 5383c74acf7f0694c9255b4b4bf2c451, type: 3}
+  - {fileID: 8300000, guid: 435f0f94a3aa31147b4eba848efed3a9, type: 3}
+  backgroundMusic: {fileID: 8300000, guid: 477656443d1204f49b29385371ca5e04, type: 3}

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 008930767855a0443b06032e56a33287, type: 3}
+  m_Name: Level5
+  m_EditorClassIdentifier: 
+  name: Seal
+  description:
+  - Great job!
+  - "You\u2019ve colored a seal! Seals are amazing swimmers and love to live in cold
+    places like Antarctica. Keep coloring to discover more animals! "
+  AudioClip:
+  - {fileID: 8300000, guid: fd76f4d40b8b9b34c8fe01cd54e15121, type: 3}
+  - {fileID: 8300000, guid: 867979b81ce404b468e8278ce9c38518, type: 3}
+  fillableImages:
+  - {fileID: 21300000, guid: 02e1e217608a54f48830336ef9b31262, type: 3}
+  - {fileID: 21300000, guid: 38f295f1554ef6f41b1e4d2c67c52f6a, type: 3}
+  - {fileID: 21300000, guid: ff9458cf0588a804a8c98bbb0a5f3798, type: 3}
+  - {fileID: 21300000, guid: 4488d8fe316016d47b283a9f9bd6119b, type: 3}
+  - {fileID: 21300000, guid: 21e13c19cb86fad479841ae2172b9c29, type: 3}
+  - {fileID: 21300000, guid: fa68f8356582f214cb6305e2ad50fc58, type: 3}
+  - {fileID: 21300000, guid: 4b7edcd1148d9764eb6e159258e8475e, type: 3}
+  - {fileID: 21300000, guid: aae2efbd10f496446a03582883a75fe4, type: 3}
+  fillableImagesColors:
+  - {r: 0.40784317, g: 0.60784316, b: 0.9333334, a: 0}
+  - {r: 0.227451, g: 0.36078432, b: 0.7019608, a: 0}
+  - {r: 0.07450981, g: 0.23137257, b: 0.5372549, a: 0}
+  - {r: 0.227451, g: 0.36078432, b: 0.7019608, a: 0}
+  - {r: 0.40784317, g: 0.60784316, b: 0.9333334, a: 0}
+  - {r: 0.227451, g: 0.36078432, b: 0.7019608, a: 0}
+  - {r: 0.227451, g: 0.36078432, b: 0.7019608, a: 0}
+  - {r: 0.07450981, g: 0.23137257, b: 0.5372549, a: 0}
+  finalImage: {fileID: 3813762010846412535, guid: 88c91ef6fd3932248932ea138aab6cd8, type: 3}
+  panelImage: {fileID: -4353182441467302149, guid: 179223a65b1071145b0db2966ea8ccb0, type: 3}
+  fillableLength: 7

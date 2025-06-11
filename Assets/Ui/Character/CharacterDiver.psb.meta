@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 588c99c71910c3d42aa36515b9a52fcb
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 33c6b8887d38f6f49b46a2efd3c22323
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: OchiInchis
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 1011
+      width: 142
+      height: 33
+    spriteID: 321b436071381114ab71492e06a88d50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 1011}
+    spritePosition: {x: 2025, y: 940}
+  - name: OchiDeschis
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 780
+      width: 167
+      height: 223
+    spriteID: 7254ece9ddfb5f741af3f8503412a54e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 780}
+    spritePosition: {x: 1999, y: 841}
+  - name: Cap
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1056
+      height: 1270
+    spriteID: 30af07f899dc0114494f3548e6f3bc71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 1216, y: 433}
+  - name: ManaStanga
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1576
+      y: 4
+      width: 463
+      height: 580
+    spriteID: 93b7f443589f34845a515296fdc13f62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1576, y: 4}
+    spritePosition: {x: 1160, y: 0}
+  - name: Coada
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 4
+      width: 500
+      height: 768
+    spriteID: 76955dcca4ccda945956d15cb3ea6e99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 4}
+    spritePosition: {x: 302, y: 690}
+  - name: Fata
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 540
+      y: 2256
+      width: 655
+      height: 384
+    spriteID: a95ab92c14ebf0b428d5ec5213aeb5c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 540, y: 2256}
+    spritePosition: {x: 2, y: 351}
+  - name: Spate
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 540
+      y: 2648
+      width: 646
+      height: 384
+    spriteID: 38d8848756da5464088b22d17775c2be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 540, y: 2648}
+    spritePosition: {x: 0, y: 402}
+  - name: Corp
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1282
+      width: 1320
+      height: 966
+    spriteID: f9d762e110e5d87458384cdecd53a6d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1282}
+    spritePosition: {x: 562, y: 231}
+  - name: ManaDreapta
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2256
+      width: 528
+      height: 529
+    spriteID: baaeee518ea2f9d4482d011f4c07493c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2256}
+    spritePosition: {x: 1405, y: 138}
+  spriteImportData: []
+  rigSpriteImportData: []
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: DiverCat
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: c0e2ef7e13824f44ea965e7a2393075d
+    layerID: 30
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: OchiInchis
+    spriteName: OchiInchis
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 321b436071381114ab71492e06a88d50
+    layerID: 29
+    mosaicPosition: {x: 1068, y: 1011}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: OchiDeschis
+    spriteName: OchiDeschis
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7254ece9ddfb5f741af3f8503412a54e
+    layerID: 27
+    mosaicPosition: {x: 1068, y: 780}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cap
+    spriteName: Cap
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 30af07f899dc0114494f3548e6f3bc71
+    layerID: 22
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ManaStanga
+    spriteName: ManaStanga
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 93b7f443589f34845a515296fdc13f62
+    layerID: 15
+    mosaicPosition: {x: 1576, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Coada
+    spriteName: Coada
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 76955dcca4ccda945956d15cb3ea6e99
+    layerID: 14
+    mosaicPosition: {x: 1068, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Picoare
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 645f656855f70044ca0f07460b7d946d
+    layerID: 12
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Fata
+    spriteName: Fata
+    isGroup: 0
+    parentIndex: 6
+    spriteID: a95ab92c14ebf0b428d5ec5213aeb5c9
+    layerID: 11
+    mosaicPosition: {x: 540, y: 2256}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Spate
+    spriteName: Spate
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 38d8848756da5464088b22d17775c2be
+    layerID: 10
+    mosaicPosition: {x: 540, y: 2648}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Corp
+    spriteName: Corp
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f9d762e110e5d87458384cdecd53a6d2
+    layerID: 8
+    mosaicPosition: {x: 4, y: 1282}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ManaDreapta
+    spriteName: ManaDreapta
+    isGroup: 0
+    parentIndex: 0
+    spriteID: baaeee518ea2f9d4482d011f4c07493c
+    layerID: 2
+    mosaicPosition: {x: 4, y: 2256}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  mosaicPSDLayers: []
+  rigPSDLayers: []
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

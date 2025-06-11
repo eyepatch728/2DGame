@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 310eeec176fe0374f831f75b7526ecfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8725319286746945288
+    second: PenguinGameElements-01 (1.1)_0
+  - first:
+      213: -7254403635816437867
+    second: PenguinGameElements-01 (1.1)_1
+  - first:
+      213: 8321275087343970026
+    second: PenguinGameElements-01 (1.1)_2
+  - first:
+      213: -8199333468778484773
+    second: PenguinGameElements-01 (1.1)_3
+  - first:
+      213: -4458954611057584004
+    second: PenguinGameElements-01 (1.1)_4
+  - first:
+      213: 2767715580231959917
+    second: PenguinGameElements-01 (1.1)_5
+  - first:
+      213: -2630503595737226543
+    second: PenguinGameElements-01 (1.1)_6
+  - first:
+      213: 5860677782525231867
+    second: PenguinGameElements-01 (1.1)_7
+  - first:
+      213: 3445141937729332939
+    second: PenguinGameElements-01 (1.1)_8
+  - first:
+      213: 3891642312699970107
+    second: PenguinGameElements-01 (1.1)_9
+  - first:
+      213: 7780753317997399377
+    second: PenguinGameElements-01 (1.1)_10
+  - first:
+      213: -7968306481936327082
+    second: PenguinGameElements-01 (1.1)_11
+  - first:
+      213: -3952799100413166428
+    second: PenguinGameElements-01 (1.1)_12
+  - first:
+      213: 6783349052567662413
+    second: PenguinGameElements-01 (1.1)_13
+  - first:
+      213: -5676441068302584508
+    second: PenguinGameElements-01 (1.1)_14
+  - first:
+      213: -4144353616947042776
+    second: PenguinGameElements-01 (1.1)_15
+  - first:
+      213: -896186651264244997
+    second: PenguinGameElements-01 (1.1)_16
+  - first:
+      213: 2420858770878986688
+    second: PenguinGameElements-01 (1.1)_17
+  - first:
+      213: -9010474342521500429
+    second: PenguinGameElements-01 (1.1)_18
+  - first:
+      213: -3976185079252815513
+    second: PenguinGameElements-01 (1.1)_19
+  - first:
+      213: 5881343428570446921
+    second: PenguinGameElements-01 (1.1)_20
+  - first:
+      213: 194908608486620760
+    second: PenguinGameElements-01 (1.1)_21
+  - first:
+      213: -9024873298642995230
+    second: PenguinGameElements-01 (1.1)_22
+  - first:
+      213: 95672400504479751
+    second: PenguinGameElements-01 (1.1)_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1550
+        width: 974
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f86591665079e680800000000000000
+      internalID: -8725319286746945288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_1
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1464
+        width: 605
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597ebd5245e235b90800000000000000
+      internalID: -7254403635816437867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_2
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1397
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6e17b9a9b1b7370800000000000000
+      internalID: 8321275087343970026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_3
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 648
+        width: 369
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbac7ee6ad163e80800000000000000
+      internalID: -8199333468778484773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_4
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1114
+        width: 390
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c789252e76c9e12c0800000000000000
+      internalID: -4458954611057584004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_5
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1356
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d654a0ff7a6e86620800000000000000
+      internalID: 2767715580231959917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 958
+        width: 342
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2e1bbaae29e7bd0800000000000000
+      internalID: -2630503595737226543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_7
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 864
+        width: 234
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2c07a546f455150800000000000000
+      internalID: 5860677782525231867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_8
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 523
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc66827d65a9fcf20800000000000000
+      internalID: 3445141937729332939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_9
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 539
+        width: 157
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b328c598014e10630800000000000000
+      internalID: 3891642312699970107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_10
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 518
+        width: 101
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d4d242be9cafb60800000000000000
+      internalID: 7780753317997399377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_11
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 503
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e1ebaf873ea6190800000000000000
+      internalID: -7968306481936327082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_12
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 494
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acb3673926d429c0800000000000000
+      internalID: -3952799100413166428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_13
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 495
+        width: 74
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f27c9060c432e50800000000000000
+      internalID: 6783349052567662413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_14
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 470
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445b2676cea3931b0800000000000000
+      internalID: -5676441068302584508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_15
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 462
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8262446d75c4c76c0800000000000000
+      internalID: -4144353616947042776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_16
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 461
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2a2f62dfa1093f0800000000000000
+      internalID: -896186651264244997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_17
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 465
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c971a1d93e989120800000000000000
+      internalID: 2420858770878986688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_18
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 424
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc0c34335d54f280800000000000000
+      internalID: -9010474342521500429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_19
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 413
+        width: 71
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7617de5bcb0c1d8c0800000000000000
+      internalID: -3976185079252815513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_20
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 420
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cf40600babe9150800000000000000
+      internalID: 5881343428570446921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_21
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 373
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85eb284c85474b200800000000000000
+      internalID: 194908608486620760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_22
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 373
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7f97bfc8531c280800000000000000
+      internalID: -9024873298642995230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenguinGameElements-01 (1.1)_23
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 360
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700e0e69a85e35100800000000000000
+      internalID: 95672400504479751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PenguinGameElements-01 (1.1)_0: -8725319286746945288
+      PenguinGameElements-01 (1.1)_1: -7254403635816437867
+      PenguinGameElements-01 (1.1)_10: 7780753317997399377
+      PenguinGameElements-01 (1.1)_11: -7968306481936327082
+      PenguinGameElements-01 (1.1)_12: -3952799100413166428
+      PenguinGameElements-01 (1.1)_13: 6783349052567662413
+      PenguinGameElements-01 (1.1)_14: -5676441068302584508
+      PenguinGameElements-01 (1.1)_15: -4144353616947042776
+      PenguinGameElements-01 (1.1)_16: -896186651264244997
+      PenguinGameElements-01 (1.1)_17: 2420858770878986688
+      PenguinGameElements-01 (1.1)_18: -9010474342521500429
+      PenguinGameElements-01 (1.1)_19: -3976185079252815513
+      PenguinGameElements-01 (1.1)_2: 8321275087343970026
+      PenguinGameElements-01 (1.1)_20: 5881343428570446921
+      PenguinGameElements-01 (1.1)_21: 194908608486620760
+      PenguinGameElements-01 (1.1)_22: -9024873298642995230
+      PenguinGameElements-01 (1.1)_23: 95672400504479751
+      PenguinGameElements-01 (1.1)_3: -8199333468778484773
+      PenguinGameElements-01 (1.1)_4: -4458954611057584004
+      PenguinGameElements-01 (1.1)_5: 2767715580231959917
+      PenguinGameElements-01 (1.1)_6: -2630503595737226543
+      PenguinGameElements-01 (1.1)_7: 5860677782525231867
+      PenguinGameElements-01 (1.1)_8: 3445141937729332939
+      PenguinGameElements-01 (1.1)_9: 3891642312699970107
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

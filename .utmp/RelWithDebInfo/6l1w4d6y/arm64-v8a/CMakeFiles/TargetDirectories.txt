@@ -1,0 +1,8 @@
+B:/Unity Projects/GeographyGame/.utmp/RelWithDebInfo/6l1w4d6y/arm64-v8a/CMakeFiles/edit_cache.dir
+B:/Unity Projects/GeographyGame/.utmp/RelWithDebInfo/6l1w4d6y/arm64-v8a/CMakeFiles/rebuild_cache.dir
+B:/Unity Projects/GeographyGame/.utmp/RelWithDebInfo/6l1w4d6y/arm64-v8a/GameActivity/CMakeFiles/game.dir
+B:/Unity Projects/GeographyGame/.utmp/RelWithDebInfo/6l1w4d6y/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+B:/Unity Projects/GeographyGame/.utmp/RelWithDebInfo/6l1w4d6y/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+B:/Unity Projects/GeographyGame/.utmp/RelWithDebInfo/6l1w4d6y/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+B:/Unity Projects/GeographyGame/.utmp/RelWithDebInfo/6l1w4d6y/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+B:/Unity Projects/GeographyGame/.utmp/RelWithDebInfo/6l1w4d6y/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

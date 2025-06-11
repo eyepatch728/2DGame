@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89445c98a37cfd94a8af8144031cbde0, type: 3}
+  m_Name: Asia
+  m_EditorClassIdentifier: 
+  continentName: Asia
+  description: 
+  miniGames:
+  - {fileID: 11400000, guid: fc57df6e6f5030f4695f2db63b6eb1df, type: 2}
+  - {fileID: 11400000, guid: 4ac895fcce954e14d93a5bb139e5f3eb, type: 2}
+  - {fileID: 11400000, guid: 872b542c1c96eeb409bd2e695e3ef4e9, type: 2}
+  - {fileID: 11400000, guid: 7589f2dc9fb011f45aa756bb5f01ad53, type: 2}
+  audioClips:
+  - {fileID: 8300000, guid: cdce7f9a086918e4fa8106802285b4c2, type: 3}
+  - {fileID: 8300000, guid: 5383c74acf7f0694c9255b4b4bf2c451, type: 3}
+  - {fileID: 8300000, guid: 435f0f94a3aa31147b4eba848efed3a9, type: 3}
+  backgroundMusic: {fileID: 8300000, guid: ecc294d1d9ff3e54995a167093df181c, type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89445c98a37cfd94a8af8144031cbde0, type: 3}
+  m_Name: Europe
+  m_EditorClassIdentifier: 
+  continentName: Europe
+  description: 
+  miniGames:
+  - {fileID: 11400000, guid: 00580e3a21fd16d419ae1b81acabbb89, type: 2}
+  - {fileID: 11400000, guid: 531570832be37364b9ecc33275e7dc7e, type: 2}
+  - {fileID: 11400000, guid: 7e07e84923de0964db1f1fbb397cc2df, type: 2}
+  - {fileID: 11400000, guid: c069f0da45311e64eb4c8a3b3821aaba, type: 2}
+  audioClips:
+  - {fileID: 8300000, guid: 8cf3ad20f946d9e4b9d91cafdc373a6e, type: 3}
+  - {fileID: 8300000, guid: 5383c74acf7f0694c9255b4b4bf2c451, type: 3}
+  - {fileID: 8300000, guid: 435f0f94a3aa31147b4eba848efed3a9, type: 3}
+  backgroundMusic: {fileID: 8300000, guid: e779257749fb26e4790592297b5c19c7, type: 3}

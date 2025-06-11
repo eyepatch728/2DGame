@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/NorthAmerica/Canadian Animals.unity
+    guid: 59a38cb52f39f3549b11a7ddf1738c0c
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/NorthAmerica/Grand Canyon.unity
+    guid: 029bf1d588c108c4b8a50779616f4db3
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/NorthAmerica/Mexic Coloring.unity
+    guid: 52f2062301d1af34c9ad78c175e5eb71
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/NorthAmerica/Runner In Greenland.unity
+    guid: 063f1dd64f3be0d40b7b64273780d371
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/NorthAmerica/Statue of Liberty.unity
+    guid: 07058af8e7a115e4f826399cf8f12065
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/SouthAmerica/Amazon River.unity
+    guid: ec4bb9aaa48ebf7469444952aba206cd
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/SouthAmerica/Andes Mountain.unity
+    guid: f993b2066306464429e2dbcde1effba4
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/SouthAmerica/Brazilian Festival.unity
+    guid: b2a480d57c02746448a3875e2233da70
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/SouthAmerica/Match Parent with Child - South
+      America.unity
+    guid: 75f574ff9765fa949b26407b82dfc042
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Africa/African Animals.unity
+    guid: d7284ec928b79be4ab962a2b09176d1d
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Africa/Cross the Nile River.unity
+    guid: e64c305349b542149a323dd95cd7d9b7
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Africa/Maze in the Pyramids of Egypt.unity
+    guid: e62cba53749ce9642b2ac5555ae09504
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Africa/Sahara Desert.unity
+    guid: bfdd43abcc6adec42a14f7f5ff06c1ad
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Europe/BigBen.unity
+    guid: 4c84e5f8145d809478ad0643fd875639
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Europe/Eiffel Tower.unity
+    guid: a25b9605ef30e294f88e953ac752851d
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Europe/The Alps Mountains.unity
+    guid: ab13ccde120e6624496579fb57bf0053
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Europe/The Tower of Pisa.unity
+    guid: f7ddf506c1ab31a4591c67e6669b25cf
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Australia/Australian National Botanic Gardens.unity
+    guid: 9301df051ec1a4e40b8dcfaca5ce3c78
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Australia/Coral.unity
+    guid: 9ff0c226f49d42a4283eb03180846120
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Australia/Koala.unity
+    guid: 6bd351473430b304896e1cab11025af6
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Australia/Match Parent with Child - Australia.unity
+    guid: fab753b3c3ef82e4f9b583d7da03ab8f
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Asia/Asian Animals.unity
+    guid: daf6f215198f4aa40ba20218da77cd4c
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Asia/China Festival.unity
+    guid: 8c512e664471dbf41a6e5f058f65ca64
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Asia/Everest Mountain.unity
+    guid: ffcdb03379b1103428a0263c1299e712
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Asia/Great Wall of China.unity
+    guid: 3ba8edc81fad7fa4facf1564a9cab933
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Antarctica/Antarctica Animal Coloring.unity
+    guid: a371a00cc12fa6748961be02f3ba2b7e
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesScenes/Antarctica/Penguin.unity
+    guid: 26464651aebbe9845adccce87f31f209
+  - enabled: 1
+    path: Assets/Scenes/RunnerAndPuzzle.unity
+    guid: 353247b15204acf40890aa7bb2a4bfbb
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

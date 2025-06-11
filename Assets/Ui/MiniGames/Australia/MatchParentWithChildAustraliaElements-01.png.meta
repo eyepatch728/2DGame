@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 1c355fbb31cb11e40b28045971aae36e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5519618614960612710
+    second: MatchParentWithChildAustraliaElements-01_0
+  - first:
+      213: -2458202618365939373
+    second: MatchParentWithChildAustraliaElements-01_1
+  - first:
+      213: -3186020997166028964
+    second: MatchParentWithChildAustraliaElements-01_2
+  - first:
+      213: -865157870059102751
+    second: MatchParentWithChildAustraliaElements-01_3
+  - first:
+      213: 7175214536158722989
+    second: MatchParentWithChildAustraliaElements-01_4
+  - first:
+      213: -1205065373287984074
+    second: MatchParentWithChildAustraliaElements-01_5
+  - first:
+      213: -5716692212383412715
+    second: MatchParentWithChildAustraliaElements-01_6
+  - first:
+      213: 7375770834859254708
+    second: MatchParentWithChildAustraliaElements-01_7
+  - first:
+      213: 4663714067808306477
+    second: MatchParentWithChildAustraliaElements-01_8
+  - first:
+      213: -1436648717694875776
+    second: MatchParentWithChildAustraliaElements-01_9
+  - first:
+      213: -866998087885138924
+    second: MatchParentWithChildAustraliaElements-01_10
+  - first:
+      213: 2565714117748870991
+    second: MatchParentWithChildAustraliaElements-01_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MatchParentWithChildAustraliaElements-01_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1366
+        width: 821
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6656c58d2ef999c40800000000000000
+      internalID: 5519618614960612710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatchParentWithChildAustraliaElements-01_1
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2025
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351fc522eb5b2edd0800000000000000
+      internalID: -2458202618365939373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatchParentWithChildAustraliaElements-01_2
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1458
+        width: 532
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57abf888caf8c3d0800000000000000
+      internalID: -3186020997166028964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatchParentWithChildAustraliaElements-01_3
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1375
+        width: 478
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed5e7040875ef3f0800000000000000
+      internalID: -865157870059102751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatchParentWithChildAustraliaElements-01_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 635
+        width: 609
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabb5feca9b739360800000000000000
+      internalID: 7175214536158722989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatchParentWithChildAustraliaElements-01_5
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 622
+        width: 531
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634db0e7d6fb64fe0800000000000000
+      internalID: -1205065373287984074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatchParentWithChildAustraliaElements-01_6
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1085
+        width: 243
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e05ae98ba3aa0b0800000000000000
+      internalID: -5716692212383412715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatchParentWithChildAustraliaElements-01_7
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 630
+        width: 691
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3e87cee700c5660800000000000000
+      internalID: 7375770834859254708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatchParentWithChildAustraliaElements-01_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 68
+        width: 487
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25c4b93c37d8b040800000000000000
+      internalID: 4663714067808306477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatchParentWithChildAustraliaElements-01_9
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 62
+        width: 601
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087c6ca5a9fff0ce0800000000000000
+      internalID: -1436648717694875776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatchParentWithChildAustraliaElements-01_10
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 336
+        width: 834
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414d9a625ddc7f3f0800000000000000
+      internalID: -866998087885138924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatchParentWithChildAustraliaElements-01_11
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 7
+        width: 848
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f40a7756f3b9320800000000000000
+      internalID: 2565714117748870991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MatchParentWithChildAustraliaElements-01_0: 5519618614960612710
+      MatchParentWithChildAustraliaElements-01_1: -2458202618365939373
+      MatchParentWithChildAustraliaElements-01_10: -866998087885138924
+      MatchParentWithChildAustraliaElements-01_11: 2565714117748870991
+      MatchParentWithChildAustraliaElements-01_2: -3186020997166028964
+      MatchParentWithChildAustraliaElements-01_3: -865157870059102751
+      MatchParentWithChildAustraliaElements-01_4: 7175214536158722989
+      MatchParentWithChildAustraliaElements-01_5: -1205065373287984074
+      MatchParentWithChildAustraliaElements-01_6: -5716692212383412715
+      MatchParentWithChildAustraliaElements-01_7: 7375770834859254708
+      MatchParentWithChildAustraliaElements-01_8: 4663714067808306477
+      MatchParentWithChildAustraliaElements-01_9: -1436648717694875776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

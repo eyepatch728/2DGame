@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cad4e467b7f093438141f3a4456db44, type: 3}
+  m_Name: Match Parent with Child
+  m_EditorClassIdentifier: 
+  gameName: Match Parent with Child - South America
+  sceneName: Match Parent with Child - South America
+  description: 
+  backgroundMusic: {fileID: 8300000, guid: 6304b583983c59849b61c4905016009d, type: 3}
